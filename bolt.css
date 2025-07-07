@@ -888,6 +888,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 .ui{
 opacity: 0;
 }
+
 .ad{
     flex-direction: column-reverse;
     margin-top: 29%;
@@ -945,6 +946,8 @@ justify-content: center;}
     margin-left: 12px;
     width: 95%;
 }
+     .navB:hover .sn{
+opacity: 0;}
 .ebab{height: 174px; width: 140px;}
 .fb{font-size: 40px;
 width: 90%;
@@ -1095,6 +1098,8 @@ margin-right: 0%;    width: 99%;}
      .ui{
 opacity: 1;
      }
+     .navB:hover .sn{
+opacity: 1;}
      .ad{
         flex-direction: row-reverse;
         border: 1px transparent;
